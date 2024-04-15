@@ -44,3 +44,10 @@ Abrir http://localhost:8080 en el navegador.
 Para ejecutar el ejemplo con docker compose ejecutamos
 
     docker compose up --build
+
+
+
+## Problemas frecuentes 
+
+[Versiones antiguas](https://docs.docker.com/engine/install/ubuntu/)
+[Permisos](https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue)
