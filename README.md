@@ -14,7 +14,7 @@ Para realizar la parte de docker ejecutar los siguientes comandos dentro de la c
   
 
     docker build -t hola-docker:latest .
-    docker run -p 8080:8080 hola-docker:latest
+    docker run -p 8081:8080 hola-docker:latest
 
 
   Si no va el build ejecutar: 
