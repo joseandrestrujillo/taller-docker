@@ -1,7 +1,7 @@
 
 ## Instalación
 
-Instalar en [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) [Windows](https://docs.docker.com/docker-for-windows/install/), [MacOS](https://docs.docker.com/docker-for-mac/install/).
+Instalar en [Debian](https://docs.docker.com/engine/install/debian/) [Windows](https://docs.docker.com/docker-for-windows/install/), [MacOS](https://docs.docker.com/docker-for-mac/install/).
 
   
 
