@@ -1,23 +1,7 @@
 
 ## Instalación
 
-  
-
-Actualizamos el sistema
-
-    sudo apt update
-
-
-Instalamos Docker
-
-    sudo apt install docker.io
-
-
-Verificamos la descarga
-
-    sudo docker run hello-world
-
-Instalar en [Windows](https://docs.docker.com/docker-for-windows/install/), [MacOS](https://docs.docker.com/docker-for-mac/install/).
+Instalar en [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) [Windows](https://docs.docker.com/docker-for-windows/install/), [MacOS](https://docs.docker.com/docker-for-mac/install/).
 
   
 
